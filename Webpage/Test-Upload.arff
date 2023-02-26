@@ -1,0 +1,5 @@
+@relation test
+@attribute filename string
+@attribute class {P,E,T}
+@data
+upload.png,?
